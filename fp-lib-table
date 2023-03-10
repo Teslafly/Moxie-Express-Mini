@@ -1,0 +1,8 @@
+(fp_lib_table
+  (lib (name "Espressif")(type "KiCad")(uri "${KIPRJMOD}/libraries/esp32-kicad-libraries-main/footprints/Espressif.pretty")(options "")(descr ""))
+  (lib (name "pkl_connectors")(type "KiCad")(uri "C:/Google Drive/hardware design/kicad_libs/pkl-kicad-libs/pkl_connectors.pretty")(options "")(descr ""))
+  (lib (name "pkl_dipol")(type "KiCad")(uri "C:/Google Drive/hardware design/kicad_libs/pkl-kicad-libs/pkl_dipol.pretty")(options "")(descr ""))
+  (lib (name "pkl_jumpers")(type "KiCad")(uri "C:/Google Drive/hardware design/kicad_libs/pkl-kicad-libs/pkl_jumpers.pretty")(options "")(descr ""))
+  (lib (name "pkl_led")(type "KiCad")(uri "C:/Google Drive/hardware design/kicad_libs/pkl-kicad-libs/pkl_led.pretty")(options "")(descr ""))
+  (lib (name "footprints")(type "KiCad")(uri "${KIPRJMOD}/libraries/footprints")(options "")(descr ""))
+)
